@@ -10,6 +10,11 @@
 - [Go语言菜鸟入门](http://www.runoob.com/go/go-tutorial.html)
 - [Go实战开发](https://github.com/astaxie/go-best-practice)
 - [雨痕的go笔记](https://github.com/qyuhen/book)
+- [effective_go](https://golang.org/doc/effective_go.html)
+- [O’Reilly 的 Go 语言基础教程](http://www.bilibili.com/video/av8845689/)
+- [gobyexample](https://gobyexample.com/)
+- [一小时教你 Go 语法的视频](https://www.youtube.com/watch?v=CF9S4QZuV30)
+- [Go 相关的教程](https://appliedgo.net/)
 
 ## 社区
 
